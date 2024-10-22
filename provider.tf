@@ -8,6 +8,6 @@ terraform {
 }
 
 provider "github" {
-    token = "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"
+    token = token
 }
 
