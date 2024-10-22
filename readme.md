@@ -4,6 +4,9 @@ install docker first
 https://hub.docker.com/
 
 
+https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2Fchocolatey
+
+
  Install Kubernetes CLI:
  Run as Administrator.
 choco install kubernetes-cli
